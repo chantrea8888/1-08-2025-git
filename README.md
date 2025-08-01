@@ -21,3 +21,12 @@ normal text
 - [x] Task 3
 
 - [x] Task 4
+
+## Table
+|id| namae| age|status|
+|..|......|....|......|
+|05| Moon | 17 | TRUE |
+|05| Moon | 17 | TRUE |
+|05| Moon | 17 | TRUE |
+|05| Moon | 17 | TRUE |
+|05| Moon | 17 | TRUE |
