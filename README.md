@@ -45,3 +45,26 @@ normal text
 3. list 3
     1. sub 1
     2. sub 2
+
+## Image 
+![Dashboard](image.png)
+
+## Link 
+CSS Framwork [Bootstrap](https://getbootstrap.com/)
+
+## Single line code
+`print("Hello world")`
+
+## multiple line
+``` python
+for num in numbers:
+    print(num)
+```
+```html
+<h1>Hello bruhhh</h1>
+<p>All about bruhhh</p>
+```
+```html
+<h1> Hello all girl </h1>
+<p> Slay </p>
+```
